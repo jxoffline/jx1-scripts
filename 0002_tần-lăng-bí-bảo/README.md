@@ -30,9 +30,9 @@ Xem chi tiết trong video hướng dẫn ở đầu bài viết này.
 
 ## ⭐️ Phiên bản
 
-| Ngày    | Công bố |                                                              |
-| ------- | ------- | ------------------------------------------------------------ |
-| **1.0** | 7/2024  | (Mới) Mở **gian hàng và dân chúng đi lại** ở Tương Dương.  (Thêm) KéoXe |
+| Ngày    | Công bố |                                          |
+| ------- | ------- | ---------------------------------------- |
+| **1.0** | 7/2024  | Giới thiệu phiên bản hoàn thiện đầu tiên |
 
 Xem thêm tại trang Github chính thức của bộ script này.
 
